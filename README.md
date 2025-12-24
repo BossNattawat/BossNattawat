@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nattawat Suktawee
 
-## I am the first year student in the university from Thailand.
+## I am a man who is passionate about coding from Thailand.
 
 I've been learning about web development for 3 years
 
