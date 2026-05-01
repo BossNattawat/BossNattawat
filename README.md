@@ -7,7 +7,7 @@ I am a man who is passionate about coding from Thailand.
 I've been learning about web development on my own for 5 years
 
 * 🌍  I'm based in Suphanburi, Thailand
-* 🖥️  See my portfolio at [My Portfolio](http://https://boss-nattawat-portfolio.vercel.app/)
+* 🖥️  See my portfolio at [My Portfolio](https://boss-nattawat-portfolio.vercel.app/)
 * 🧠  I'm currently learning C++
 
 # 💻 Tech Stack:
